@@ -1,7 +1,7 @@
 {
-  "name": "@shaungt1/react-component-library.git",
+  "name": "shaungt1/react-component-library.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/shaungt1"
+    "registry": "https://npm.pkg.github.com/react-component-library.git"
   },
   "version": "0.1.0",
   "description": "ShaunPX1's React / Typescript Component Library",
@@ -48,6 +48,8 @@
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "types": "dist/index.d.ts"
 }
