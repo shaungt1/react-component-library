@@ -2,4 +2,14 @@
 
 > This is a library of components and logic I have personally built in React/Typescript/JavaScript
 
-**Usage:**
+**Install:**
+
+```
+npm install
+```
+
+**Install:**
+
+```
+npm install
+```
